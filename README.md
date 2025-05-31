@@ -32,7 +32,7 @@
 1. hangul-t3d.el 파일을 다운로드 합니다.
 2. ~/.emacs.d/hangul/hangul-t3d.el 로 복사해 둔다.
 3. ~/.emacs 또는 ~/.emacs.d/init.el 파일 내에 아래와 같이 로딩 경로를 미리 설정해 놓는다:
-   '''elisp
+   ```elisp
    (add-to-list 'load-path "~/.emacs.d/hangul")
 
 4. 
