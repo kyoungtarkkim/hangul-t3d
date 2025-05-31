@@ -2,7 +2,7 @@
 
 ## Layout
 
-![layout_t3d.png](./layout_t3d.png)
+![layout_t3d.jpg](./layout_t3d.jpg)
 
 
 ## 탁 세벌식D 자판을 개발한 이유
